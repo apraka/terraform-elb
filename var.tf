@@ -10,7 +10,7 @@ variable "aws_subnet" {
 
 variable "aws_subnet2" {
     description = "aws subnet2"
-    default = "subnet-1de7c250"
+    default = "subnet-59aff756"
 }
 
 variable "aws_key" {
